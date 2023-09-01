@@ -50,11 +50,14 @@ Happy coding! 🚀✨
 ![Profile Views](https://komarev.com/ghpvc/?username=harshithadev&color=blueviolet)
 <br/>
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshithadev)
 <!-- GitHub Stats -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshithadev&show_icons=true&count_private=true&theme=dark)
-<!-- GitHub Contributions Graph -->
-![Your GitHub Contributions Graph](https://github.com/harshithadev)
+
+<!-- GitHub Activity Graph -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harshithadev)
+<!-- GitHub Trophies -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithadev&layout=compact&theme=dark)](https://github.com/harshithadev/github-readme-stats)
