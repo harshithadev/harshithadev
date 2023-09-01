@@ -49,18 +49,30 @@ Happy coding! 🚀✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshithadev&color=blueviolet)
 <br/>
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshithadev)
-<!-- GitHub Stats -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshithadev&show_icons=true&count_private=true&theme=dark)
 
-<!-- GitHub Activity Graph -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harshithadev)
-<!-- GitHub Trophies -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
+<table>
+  <tr>
+    <td width="25%">
+       <!-- GitHub Streak -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshithadev" alt="GitHub Streak">
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=harshithadev&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
+    </td>
+    <td width="25%">
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
+    </td>
+    <td width="25%">
+      <!-- GitHub Trophies -->
+      <img src="https://github-profile-trophy.vercel.app/?username=harshithadev" alt="GitHub Trophies">
+    </td>
+    <td width="25%">
+     <!-- Top Languages Card -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithadev&layout=compact&theme=dark" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithadev&layout=compact&theme=dark)](https://github.com/harshithadev/github-readme-stats)
 <br>
 <!--
 **harshithadev/harshithadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
