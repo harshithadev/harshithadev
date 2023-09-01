@@ -51,24 +51,24 @@ Happy coding! 🚀✨
 <br/>
 
 <table style="border: none;">
-  <tr>
+  <tr style="border: none;">
     <td width="50%">
        <!-- GitHub Streak -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshithadev" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshithadev" alt="GitHub Streak"  style="border: none;">
     </td>
     <td width="50%">
       <!-- GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats"  style="border: none;">
     </td>
      </tr>
   <td>
     <td width="50%">
       <!-- GitHub Trophies -->
-      <img src="https://github-profile-trophy.vercel.app/?username=harshithadev" alt="GitHub Trophies">
+      <img src="https://github-profile-trophy.vercel.app/?username=harshithadev" alt="GitHub Trophies"  style="border: none;">
     </td>
     <td width="50%">
      <!-- Top Languages Card -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithadev&layout=compact&theme=dark" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithadev&layout=compact" alt="Top Languages">
     </td>
   </tr>
 </table>
