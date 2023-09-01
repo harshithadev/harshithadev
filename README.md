@@ -31,11 +31,16 @@ I'm a polyglot developer who enjoys working with a diverse set of technologies. 
 ## Get in Touch
 
 I'd love to connect with you! Feel free to reach out on any of the following platforms:
-<!--
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/yourname)
+
+- **Instagram:** [@live._.evil__](https://www.instagram.com/live._.evil__/) 📷
+
+- **LinkedIn:** [Harshitha Devineni](https://www.linkedin.com/in/harshitha-devineni-a23562117) 👔
+
+- **Medium:** [@h dev](https://medium.com/@typexpersonality) ✍️
+
 - **Email:** harshithadevineni16@gmail.com
--->
+
+  
 ## Support My Work
 
 If you find any of my projects or content useful, please consider supporting my work. Your contributions, whether through code, feedback, or a simple star ⭐, mean the world to me.
