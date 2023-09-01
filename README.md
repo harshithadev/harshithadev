@@ -7,9 +7,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=harshithadev&color=blueviolet)
 <br/>
 [![github stats](https://github-readme-stats.vercel.app/api?username=harshithadev&theme=gotham)](https://github.com/harshithadev/github-readme-stats)
-
-  ####My Top languages
-  <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithadev&layout=compact&theme=dark)](https://github.com/harshithadev/github-readme-stats)
 <br>
 <!--
