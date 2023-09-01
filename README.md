@@ -61,7 +61,7 @@ Happy coding! 🚀✨
       <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats"  style="border: none;">
     </td>
      </tr>
-  <tr>  style="border: none;"
+  <tr  style="border: none;"> 
     <td width="50%"  style="border: none;">
       <!-- GitHub Trophies -->
       <img src="https://github-profile-trophy.vercel.app/?username=harshithadev" alt="GitHub Trophies"  style="border: none;">
