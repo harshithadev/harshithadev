@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  <summary>🔥 Top languages</summary>
+  <summary>My Top languages</summary>
   <br>
   
   
