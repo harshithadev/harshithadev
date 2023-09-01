@@ -50,23 +50,23 @@ Happy coding! 🚀✨
 ![Profile Views](https://komarev.com/ghpvc/?username=harshithadev&color=blueviolet)
 <br/>
 
-<table>
+<table style="border: none;">
   <tr>
-    <td width="25%">
+    <td width="50%">
        <!-- GitHub Streak -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshithadev" alt="GitHub Streak">
-      <!-- GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=harshithadev&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
     </td>
-    <td width="25%">
+    <td width="50%">
       <!-- GitHub Stats -->
       <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
     </td>
-    <td width="25%">
+     </tr>
+  <td>
+    <td width="50%">
       <!-- GitHub Trophies -->
       <img src="https://github-profile-trophy.vercel.app/?username=harshithadev" alt="GitHub Trophies">
     </td>
-    <td width="25%">
+    <td width="50%">
      <!-- Top Languages Card -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithadev&layout=compact&theme=dark" alt="Top Languages">
     </td>
