@@ -49,7 +49,8 @@ Happy coding! 🚀✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshithadev&color=blueviolet)
 <br/>
-[![github stats](https://github-readme-stats.vercel.app/api?username=harshithadev&theme=gotham)](https://github.com/harshithadev/github-readme-stats)
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
 <!-- GitHub Stats -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshithadev&show_icons=true&count_private=true&theme=dark)
 <!-- GitHub Contributions Graph -->
