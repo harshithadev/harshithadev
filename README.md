@@ -45,30 +45,30 @@ Thank you for visiting my GitHub profile. Together, let's make the world a bette
 Happy coding! 🚀✨
 
   
-  ### 📝 My GitHub Stats 
+  ### 📝 Playing around with GitHub Stats 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshithadev&color=blueviolet)
 <br/>
 
 <table style="border: none;">
   <tr style="border: none;">
-    <td width="50%">
+    <td width="50%"  style="border: none;">
        <!-- GitHub Streak -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshithadev" alt="GitHub Streak"  style="border: none;">
     </td>
-    <td width="50%">
+    <td width="50%"  style="border: none;">
       <!-- GitHub Stats -->
       <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats"  style="border: none;">
     </td>
      </tr>
-  <td>
-    <td width="50%">
+  <tr>  style="border: none;"
+    <td width="50%"  style="border: none;">
       <!-- GitHub Trophies -->
       <img src="https://github-profile-trophy.vercel.app/?username=harshithadev" alt="GitHub Trophies"  style="border: none;">
     </td>
-    <td width="50%">
+    <td width="50%"  style="border: none;">
      <!-- Top Languages Card -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithadev&layout=compact" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithadev&layout=compact" alt="Top Languages"  style="border: none;">
     </td>
   </tr>
 </table>
